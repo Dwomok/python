@@ -1,4 +1,5 @@
-i = 8
+#Learning to wrte conditional statement in python
+ i = 8
 if(i % 2):
     print "Odd Number"
 else:
