@@ -1,3 +1,4 @@
+#Learning how to loop wit for in python
 for i in range(1, 11): # i is an integer, range is a function
 	print i
 
