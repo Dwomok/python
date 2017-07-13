@@ -1,3 +1,4 @@
+#Converting degrees to radians
 import math
 
 #radians = (32 * math.pi) / 180
